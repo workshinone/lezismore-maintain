@@ -1,1 +1,4 @@
 desktop.ini
+.cache
+.DS_Store
+.sass-cache
